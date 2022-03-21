@@ -1,1 +1,3 @@
-# teaching-materials
+# This is a public repository of my teaching materials. As every teacher knows, materials come from all sorts of places so if any of the documents in this repository are not intended for public sharing, please message me. I create a lot of exercise sheets, tests, and lesson plans myself, but I also have a lot of material from colleagues and seminars. While this is in many ways my personal collection that I actively use and update, I hope it can also help other teachers along the way.
+
+# The repository generally covers the German subjects "Englisch" and "Wahlpflichtkurs Kreativwerkstatt" for now, though I expect to teach other subjects in the future (likely "Arbeit-Wirtschaft-Technik" and "Gesellschaftslehre"). As such, the material will be in German as I teach at a German school (with grades 5 to 10 currently, or "Sekundarstufe 1").
